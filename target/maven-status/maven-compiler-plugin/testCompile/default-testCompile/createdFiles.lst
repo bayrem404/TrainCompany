@@ -1,0 +1,4 @@
+service\PriceServiceTest.class
+service\TapServiceTest.class
+service\ZoneServiceTest.class
+service\CustomerSummaryServiceTest.class

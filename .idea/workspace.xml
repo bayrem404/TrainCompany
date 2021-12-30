@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="292d6c9c-ad65-4e93-baec-44e9e4c0ad9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="70" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22gy5ozrExsI1NKiAIErBmmtRdM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="json.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CustomerSummaryServiceTest.getCustomerSummeriesShouldReturn">
+    <configuration name="TrainCompany" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrainCompany" />
+      <module name="Train" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\hamma\OneDrive\Bureau\BNP\CandidateInputExample.txt&quot; &quot;C:\Users\hamma\OneDrive\Bureau\BNP\Candidate.txt&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerSummaryServiceTest.getCustomerSummeriesShouldReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.CustomerSummaryServiceTest" />
+      <option name="METHOD_NAME" value="getCustomerSummeriesShouldReturn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.PriceServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceServiceTest.getBestPriceShouldReturnMinPriceAndStaInSameZone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.PriceServiceTest" />
+      <option name="METHOD_NAME" value="getBestPriceShouldReturnMinPriceAndStaInSameZone" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZoneServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ZoneServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZoneServiceTest.getTripZonesShouldReturnFourTrips" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Train" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ZoneServiceTest" />
+      <option name="METHOD_NAME" value="getTripZonesShouldReturnFourTrips" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TrainCompany" />
+      <item itemvalue="JUnit.ZoneServiceTest.getTripZonesShouldReturnFourTrips" />
+      <item itemvalue="JUnit.PriceServiceTest" />
+      <item itemvalue="JUnit.ZoneServiceTest" />
+      <item itemvalue="JUnit.PriceServiceTest.getBestPriceShouldReturnMinPriceAndStaInSameZone" />
+      <item itemvalue="JUnit.CustomerSummaryServiceTest.getCustomerSummeriesShouldReturn" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerSummaryServiceTest.getCustomerSummeriesShouldReturn" />
+        <item itemvalue="JUnit.PriceServiceTest.getBestPriceShouldReturnMinPriceAndStaInSameZone" />
+        <item itemvalue="JUnit.PriceServiceTest" />
+        <item itemvalue="JUnit.ZoneServiceTest" />
+        <item itemvalue="JUnit.ZoneServiceTest.getTripZonesShouldReturnFourTrips" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="292d6c9c-ad65-4e93-baec-44e9e4c0ad9e" name="Default Changelist" comment="" />
+      <created>1640273343572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640273343572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Project_Structure" timestamp="1640335868397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1640335868397" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640378926882">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1640378926882" />
+    <state x="548" y="120" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1640378831938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="120" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1640378831938" />
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1640373200378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1640373200378" />
+    <state x="241" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1640344250678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="241" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1640344250678" />
+    <state x="499" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1640809881344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1640809881344" />
+    <state x="655" y="121" width="605" height="582" key="#xdebugger.evaluate" timestamp="1640907494368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="655" y="121" width="605" height="582" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1640907494368" />
+    <state width="481" height="466" key="DebuggerActiveHint" timestamp="1640907452098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="481" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1640907452098" />
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom" timestamp="1640908205884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640908205884" />
+    <state width="1493" height="243" key="GridCell.Tab.0.center" timestamp="1640908205884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1640908205884" />
+    <state width="1493" height="243" key="GridCell.Tab.0.left" timestamp="1640908205884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1640908205884" />
+    <state width="1493" height="243" key="GridCell.Tab.0.right" timestamp="1640908205884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1640908205884" />
+    <state width="1493" height="243" key="GridCell.Tab.1.bottom" timestamp="1640908205884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640908205884" />
+    <state width="1493" height="243" key="GridCell.Tab.1.center" timestamp="1640908205884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1640908205884" />
+    <state width="1493" height="243" key="GridCell.Tab.1.left" timestamp="1640908205884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1640908205884" />
+    <state width="1493" height="243" key="GridCell.Tab.1.right" timestamp="1640908205884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1640908205884" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1640904250393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1640904250393" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1640375055038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1640375055038" />
+    <state x="540" y="144" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1640373158749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="144" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1640373158749" />
+    <state x="474" y="173" width="588" height="478" key="find.popup" timestamp="1640301827406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="173" width="588" height="478" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1640301827406" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/PriceService.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/PriceService.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/ZoneService.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/PriceService.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/service/ZoneServiceTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/service/ZoneServiceTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/service/PriceServiceTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/PriceService.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/ZoneService.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/service/CustomerSummaryServiceTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Train$ZoneServiceTest_getTripZonesShouldReturnFourTrips.ic" NAME="ZoneServiceTest.getTripZonesShouldReturnFourTrips Coverage Results" MODIFIED="1640811240514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Train$PriceServiceTest_getBestPriceShouldReturnMinPriceAndStaInSameZone.ic" NAME="PriceServiceTest.getBestPriceShouldReturnMinPriceAndStaInSameZone Coverage Results" MODIFIED="1640906980450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Train$ZoneServiceTest.ic" NAME="ZoneServiceTest Coverage Results" MODIFIED="1640903820452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Train$TapServiceTest_getTapsByCustomerShouldReturnCustomerTaps.ic" NAME="TapServiceTest.getTapsByCustomerShouldReturnCustomerTaps Coverage Results" MODIFIED="1640811223436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Train$PriceServiceTest.ic" NAME="PriceServiceTest Coverage Results" MODIFIED="1640906651258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
